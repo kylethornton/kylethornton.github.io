@@ -517,7 +517,7 @@ body.nav-opened .site-wrapper {
     width: 100%;
     height: 100vh;
     margin-bottom: 5rem;
-    text-align: center;
+    /*text-align: center;*/
     background: #222 no-repeat center center;
     background-size: cover;
     overflow: hidden;
@@ -525,6 +525,8 @@ body.nav-opened .site-wrapper {
 
 .main-header .inner {
     width: 80%;
+    margin-left: 20px;
+    max-width: 500px;
 }
 
 .main-header a.bloglogo {
@@ -977,6 +979,7 @@ body:not(.post-template) .post-title {
 
 .read-more {
     text-decoration: none;
+    font-size: 0.65em;
 }
 
 .post-meta {
