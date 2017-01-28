@@ -878,6 +878,7 @@ body.nav-opened .menu-button .word {
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
     color: #fff;
+    text-shadow: 2px 2px 2px black
 }
 
 .page-description {
